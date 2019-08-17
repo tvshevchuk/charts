@@ -1,5 +1,5 @@
 Steps to establish the environment:
-1. `yarn start` (run Node.js server)
-2. `cd src/public` (go to the front-end package)
-3. `yarn && yarn start` (download required packages, build them and run static dev server)
-4. open `localhost:8080` in the browser
+1. Run Node.js server: `yarn && yarn start`
+2. On the separate terminal window go to the front-end page: `cd src/public` 
+3. Download required packages, build them and run static dev server: `yarn && yarn start`
+4. Open `localhost:8080` in the browser
